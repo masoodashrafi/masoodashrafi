@@ -6,7 +6,7 @@ Computer Science @ University of Waterloo & BBA @ Wilfrid Laurier University
 * 🌍  I'm based in Toronto
 * ✉️  You can contact me at [mkashraf@uwaterloo.ca](mailto:mkashraf@uwaterloo.ca)
 * 🧠  I'm learning Python for Data Science/ML
-* ⚡  Currenlty working as an Analyst @ RBC
+* ⚡  Currently working as an Analyst @ RBC
 
 ### Skills
 
