@@ -1,7 +1,7 @@
 Hi 👋 My name is Masood Ashrafi
 ===============================
 
-Computer Science @ University of Waterloo & BBA @ Wilfrid Laurier University
+Computer Science @ University of Waterloo
 
 * 🌍  I'm based in Toronto
 * ✉️  You can contact me at [mkashraf@uwaterloo.ca](mailto:mkashraf@uwaterloo.ca)
