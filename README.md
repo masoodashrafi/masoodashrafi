@@ -6,7 +6,7 @@ Computer Science @ University of Waterloo
 * 🌍  I'm based in Toronto
 * ✉️  You can contact me at [mkashraf@uwaterloo.ca](mailto:mkashraf@uwaterloo.ca)
 * 🧠  I'm learning Python for Data Science/ML
-* ⚡  Previously worked as an Analyst @ RBC
+* ⚡  Currently working as a SC Data Analyst @ Hershey Canada, previously as a Technical Analyst @ RBC & SWE @ Akhny Solutions
 
 ### Skills
 
