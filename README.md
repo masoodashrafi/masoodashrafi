@@ -5,9 +5,9 @@ Computer Science @ University of Waterloo
 
 * 🌍  I'm based in Toronto
 * ✉️  You can contact me at [mkashraf@uwaterloo.ca](mailto:mkashraf@uwaterloo.ca)
-* 🧠  I'm learning Python and Terraform for Cloud/DevOps Engineering
-* ⚡  Currently working as a DevOps Engineer @ Canada Life
-* ➡️  Prev. as a Data Analyst @ Hershey, Technical Analyst @ RBC & SWE @ Akhny Solutions
+* 🧠  I'm learning python and terraform for cloud engineering and pursuing ventures in native mobile development
+* ⚡  Currently seeking Summer 2025 Internships
+* ➡️  Prev. as a DevOps Engineer @ Canada Life, Data Analyst @ Hershey, Technical Services Analyst @ RBC & SWE @ Akhny Solutions
 
 ### Skills
 
