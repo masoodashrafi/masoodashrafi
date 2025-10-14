@@ -5,7 +5,7 @@ Computer Science @ University of Waterloo
 
 * 🌍  I'm based in Toronto
 * ✉️  You can contact me at [mkashraf@uwaterloo.ca](mailto:mkashraf@uwaterloo.ca)
-* 🧠  I'm learning python and terraform for cloud engineering and pursuing ventures in native mobile development
+* 🧠  I'm learning python and terraform for cloud engineering and pursuing ventures in game development
 * ⚡  Currently seeking Winter/Summer 2026 Opportunities
 * ➡️  Prev. a SWE intern @ Mackenzie Investments
 
